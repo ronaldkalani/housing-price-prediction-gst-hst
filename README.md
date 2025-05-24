@@ -7,17 +7,12 @@ An end-to-end MLOps pipeline leveraging Snowflake, Scikit-learn, and Streamlit t
 To build a robust, interpretable, and deployable ML pipeline that predicts house prices based on structured housing data and flags regulatory tax compliance (GST/HST) when price exceeds $1,000,000 CAD. This project simulates how AGI could automate tax policy reasoning, user explanation, and model evolution in real time.
 
 ## Intended Audience
-  # Data Scientists and ML Engineers
-
-  # MLOps Practitioners
-
-  # Canadian Tax Regulators and Policy Analysts
-
-  # AI and AGI Researchers
-
-  # Government IT/Cloud Architects
-
-  # Real Estate Data Analysts
+1. Data Scientists and ML Engineers
+2. MLOps Practitioners
+3. Canadian Tax Regulators and Policy Analysts
+4. AI and AGI Researchers
+5. Government IT/Cloud Architects
+6. Real Estate Data Analysts
 
 ## Pipeline Strategy
 
